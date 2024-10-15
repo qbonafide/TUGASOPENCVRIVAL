@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tina/Modul_Oprec_OpenCV/src/tugas1.cpp
+iostream
+-
+opencv4/opencv2/opencv.hpp
+-
+cstdlib
+-
+ctime
+-
+
